@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Callum
+
+I like programming pretty much anything except for frontend.
+
+The language I am learning right now is Rust because I believe it will be big in the future.
 
 <!--
 **Callum-Irving/Callum-Irving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
